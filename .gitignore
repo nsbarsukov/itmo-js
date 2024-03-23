@@ -1,0 +1,8 @@
+node_modules
+.DS_Store
+dist
+*.local
+.remote-assets
+components.d.ts
+.idea
+slides-export.pdf

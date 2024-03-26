@@ -16,7 +16,7 @@ class: host
 
 <style>
     .host img {
-        max-height: 85%;
+        max-height: 80%;
         margin: auto;
     }
 

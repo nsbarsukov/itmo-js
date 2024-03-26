@@ -13,3 +13,7 @@ src: ./pages/01-js-intro/02-why-learn-js-survey.md
 src: ./pages/01-js-intro/03-why-learn-js-ecosystem.md
 ---
 
+---
+src: ./pages/01-js-intro/04-why-learn-js-salary.md
+---
+

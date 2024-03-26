@@ -17,3 +17,7 @@ src: ./pages/01-js-intro/03-why-learn-js-ecosystem.md
 src: ./pages/01-js-intro/04-why-learn-js-salary.md
 ---
 
+---
+src: ./pages/01-js-intro/05-js-history-mosaic.md
+---
+

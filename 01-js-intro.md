@@ -21,3 +21,7 @@ src: ./pages/01-js-intro/04-why-learn-js-salary.md
 src: ./pages/01-js-intro/05-js-history-mosaic.md
 ---
 
+---
+src: ./pages/01-js-intro/06-js-history-netscape-navigator.md
+---
+

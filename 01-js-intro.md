@@ -29,3 +29,7 @@ src: ./pages/01-js-intro/06-js-history-netscape-navigator.md
 src: ./pages/01-js-intro/07-js-history-aliweb-demo.md
 ---
 
+---
+src: ./pages/01-js-intro/08-js-history-mocha-livescript-javascript.md
+---
+

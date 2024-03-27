@@ -61,5 +61,9 @@ src: ./pages/01-js-intro/14-run-js-via-ide.md
 src: ./pages/01-js-intro/15-js-code-instructions-demo.md
 ---
 
+---
+src: ./pages/01-js-intro/16-semicolons-are-important.md
+---
+
 
 

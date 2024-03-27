@@ -49,3 +49,7 @@ src: ./pages/01-js-intro/11-run-js-via-devtools.md
 src: ./pages/01-js-intro/12-explain-html-css-js.md
 ---
 
+---
+src: ./pages/01-js-intro/13-run-js-via-html-file.md
+---
+

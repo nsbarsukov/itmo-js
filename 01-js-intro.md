@@ -37,3 +37,7 @@ src: ./pages/01-js-intro/08-js-history-mocha-livescript-javascript.md
 src: ./pages/01-js-intro/09-js-history-ecmascript.md
 ---
 
+---
+src: ./pages/01-js-intro/10-learn-js-sources.md
+---
+

@@ -65,5 +65,9 @@ src: ./pages/01-js-intro/15-js-code-instructions-demo.md
 src: ./pages/01-js-intro/16-semicolons-are-important.md
 ---
 
+---
+src: ./pages/01-js-intro/17-code-comments.md
+---
+
 
 

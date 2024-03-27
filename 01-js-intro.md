@@ -57,3 +57,9 @@ src: ./pages/01-js-intro/13-run-js-via-html-file.md
 src: ./pages/01-js-intro/14-run-js-via-ide.md
 ---
 
+---
+src: ./pages/01-js-intro/15-js-code-instructions-demo.md
+---
+
+
+

@@ -10,7 +10,7 @@ class: host
 
 <style>
     .host img {
-        max-height: 90%;
+        height: 90%;
         margin: auto;
     }
 </style>

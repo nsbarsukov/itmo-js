@@ -46,5 +46,9 @@ console.log(2+2);
     .host li {
         margin-bottom: 2rem;
     }
+
+    .host code {
+        font-size: 1.5rem;
+    }
 </style>
 

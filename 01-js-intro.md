@@ -73,5 +73,9 @@ src: ./pages/01-js-intro/17-code-comments.md
 src: ./pages/01-js-intro/18-variable-intro.md
 ---
 
+---
+src: ./pages/01-js-intro/19-variable-declaration.md
+---
+
 
 

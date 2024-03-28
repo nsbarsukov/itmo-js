@@ -77,5 +77,9 @@ src: ./pages/01-js-intro/18-variable-intro.md
 src: ./pages/01-js-intro/19-variable-declaration.md
 ---
 
+---
+src: ./pages/01-js-intro/20-variable-naming-restrictions.md
+---
+
 
 

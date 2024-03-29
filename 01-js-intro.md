@@ -85,5 +85,9 @@ src: ./pages/01-js-intro/20-variable-naming-restrictions.md
 src: ./pages/01-js-intro/21-variable-naming-recommendations.md
 ---
 
+---
+src: ./pages/01-js-intro/22-descriptive-constants-example.md
+---
+
 
 

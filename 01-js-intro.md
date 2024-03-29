@@ -81,5 +81,9 @@ src: ./pages/01-js-intro/19-variable-declaration.md
 src: ./pages/01-js-intro/20-variable-naming-restrictions.md
 ---
 
+---
+src: ./pages/01-js-intro/21-variable-naming-recommendations.md
+---
+
 
 

@@ -93,5 +93,6 @@ src: ./pages/01-js-intro/22-descriptive-constants-example.md
 src: ./pages/01-js-intro/23-variable-naming-recommendations-continue.md
 ---
 
-
-
+---
+src: ./pages/01-js-intro/24-final.md
+---

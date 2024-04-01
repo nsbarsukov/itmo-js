@@ -44,6 +44,7 @@ class: host
     .host img {
         height: 100%;
         max-width: 6rem;
+        max-height: 6rem;
         padding: 1rem;
         border-radius: 1rem;
         border: 1px solid gray;

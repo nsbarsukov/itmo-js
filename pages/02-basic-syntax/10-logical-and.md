@@ -6,9 +6,9 @@ class: host
 Обозначается двумя знаками амперсанда
 
 ```js
-true && true;   // true
+true  && true;   // true
 false && true;  // false
-true && false;  // false
+true  && false;  // false
 false && false; // false
 ```
 

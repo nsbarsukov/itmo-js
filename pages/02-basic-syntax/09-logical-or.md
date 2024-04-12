@@ -6,9 +6,9 @@ class: host
 Обозначается двумя символами вертикальной черты
 
 ```js
-true || true   // true
+true  || true   // true
 false || true  // true
-true || false  // true
+true  || false  // true
 false || false // false
 ```
 

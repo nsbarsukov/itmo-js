@@ -54,3 +54,7 @@ src: ./pages/02-basic-syntax/12-nullish-coalescing.md
 ---
 src: ./pages/02-basic-syntax/13-if-else.md
 ---
+
+---
+src: ./pages/02-basic-syntax/14-conditional-ternary-operator.md
+---

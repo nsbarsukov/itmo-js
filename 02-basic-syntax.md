@@ -70,3 +70,7 @@ src: ./pages/02-basic-syntax/16-do-while.md
 ---
 src: ./pages/02-basic-syntax/17-for-loop.md
 ---
+
+---
+src: ./pages/02-basic-syntax/18-break-loop.md
+---

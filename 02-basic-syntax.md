@@ -58,3 +58,7 @@ src: ./pages/02-basic-syntax/13-if-else.md
 ---
 src: ./pages/02-basic-syntax/14-conditional-ternary-operator.md
 ---
+
+---
+src: ./pages/02-basic-syntax/15-while.md
+---

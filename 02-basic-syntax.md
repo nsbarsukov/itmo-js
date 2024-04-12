@@ -86,3 +86,7 @@ src: ./pages/02-basic-syntax/20-create-function.md
 ---
 src: ./pages/02-basic-syntax/21-undefined-function-argument.md
 ---
+
+---
+src: ./pages/02-basic-syntax/22-function-scope.md
+---

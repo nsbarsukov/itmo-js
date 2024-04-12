@@ -106,3 +106,7 @@ src: ./pages/02-basic-syntax/25-function-types-arrow.md
 ---
 src: ./pages/02-basic-syntax/26-console-methods.md
 ---
+
+---
+src: ./pages/02-basic-syntax/27-final.md
+---

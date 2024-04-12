@@ -39,4 +39,8 @@ src: ./pages/02-basic-syntax/08-comparison-operators-equality.md
 src: ./pages/02-basic-syntax/09-logical-or.md
 ---
 
+---
+src: ./pages/02-basic-syntax/10-logical-and.md
+---
+
 

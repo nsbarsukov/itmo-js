@@ -10,3 +10,7 @@ src: ./pages/02-basic-syntax/01-cover.md
 ---
 src: ./pages/02-basic-syntax/02-type-conversion.md
 ---
+
+---
+src: ./pages/02-basic-syntax/03-string-conversion.md
+---

@@ -96,5 +96,9 @@ src: ./pages/02-basic-syntax/23-function-return.md
 ---
 
 ---
-src: ./pages/02-basic-syntax/24-function-types.md
+src: ./pages/02-basic-syntax/24-function-types-expression-declaration.md
+---
+
+---
+src: ./pages/02-basic-syntax/25-function-types-arrow.md
 ---

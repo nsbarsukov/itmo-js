@@ -3,6 +3,7 @@ class: host
 ---
 
 # Разновидности функций
+Function declaration и function expression
 
 ```js {all|all|hide}{at:1}
 // function declaration

@@ -62,3 +62,8 @@ src: ./pages/02-basic-syntax/14-conditional-ternary-operator.md
 ---
 src: ./pages/02-basic-syntax/15-while.md
 ---
+
+---
+src: ./pages/02-basic-syntax/16-do-while.md
+---
+

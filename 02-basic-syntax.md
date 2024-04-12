@@ -102,3 +102,7 @@ src: ./pages/02-basic-syntax/24-function-types-expression-declaration.md
 ---
 src: ./pages/02-basic-syntax/25-function-types-arrow.md
 ---
+
+---
+src: ./pages/02-basic-syntax/26-console-methods.md
+---

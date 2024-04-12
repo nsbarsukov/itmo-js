@@ -43,4 +43,8 @@ src: ./pages/02-basic-syntax/09-logical-or.md
 src: ./pages/02-basic-syntax/10-logical-and.md
 ---
 
+---
+src: ./pages/02-basic-syntax/11-logical-not.md
+---
+
 

@@ -1,6 +1,8 @@
 ---
 theme: seriph
 title: JS Intro
+titleTemplate: '%s'
+favicon: /logos/javascript.svg
 transition: slide-up
 src: ./pages/01-js-intro/01-cover.md
 ---

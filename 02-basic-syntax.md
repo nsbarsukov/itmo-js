@@ -78,3 +78,7 @@ src: ./pages/02-basic-syntax/18-break-loop.md
 ---
 src: ./pages/02-basic-syntax/19-continue-loop.md
 ---
+
+---
+src: ./pages/02-basic-syntax/20-create-function.md
+---

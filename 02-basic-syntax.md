@@ -82,3 +82,7 @@ src: ./pages/02-basic-syntax/19-continue-loop.md
 ---
 src: ./pages/02-basic-syntax/20-create-function.md
 ---
+
+---
+src: ./pages/02-basic-syntax/21-undefined-function-argument.md
+---

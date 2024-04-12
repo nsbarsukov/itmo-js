@@ -94,3 +94,7 @@ src: ./pages/02-basic-syntax/22-function-scope.md
 ---
 src: ./pages/02-basic-syntax/23-function-return.md
 ---
+
+---
+src: ./pages/02-basic-syntax/24-function-types.md
+---

@@ -1,7 +1,7 @@
 name: Deploy pages
 
 on:
-  workflow_dispatch: {}
+  workflow_dispatch: { }
   push:
     branches:
       - main
@@ -31,6 +31,9 @@ jobs:
 
       - name: Build 1st
         run: npm run build -- 01-js-intro.md --out=dist/01-js-intro --base=/itmo-js/01-js-intro/
+
+      - name: Build 2nd
+        run: npm run build -- 02-basic-syntax.md --out=dist/02-basic-syntax --base=/itmo-js/02-basic-syntax/
 
       - name: Create root navigation file
         run: cp index.html dist/index.html

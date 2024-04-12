@@ -27,4 +27,12 @@ src: ./pages/02-basic-syntax/05-implicit-number-conversion.md
 src: ./pages/02-basic-syntax/06-boolean-conversion.md
 ---
 
+---
+src: ./pages/02-basic-syntax/07-comparison-operators-more-less.md
+---
+
+---
+src: ./pages/02-basic-syntax/08-comparison-operators-equality.md
+---
+
 

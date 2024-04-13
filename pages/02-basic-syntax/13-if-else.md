@@ -31,7 +31,7 @@ if (age > 200) {
 ```
 
 ```js
-const age = +prompt('Ваш возраст?');
+const age = prompt('Ваш возраст?');
 
 // Если пользователь нажал "Отмена" => undefined
 if (age !== undefined) {

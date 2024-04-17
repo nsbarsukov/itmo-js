@@ -9,7 +9,7 @@ class: host
 ```js
 const shelf = {
     key1: 42,
-    key2: 'Никита',
+    key2: 'Содержимое папки',
     key3: true,
 }
 ```
@@ -27,12 +27,7 @@ const shelf = {
 .wrapper div,
 img {
     flex: 1;
-    max-width: 40%;
-}
-
-img {
-    /*flex: 1;*/
-    max-width: 50%;
+    max-width: 45%;
 }
 
 .host code {

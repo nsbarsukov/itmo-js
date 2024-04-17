@@ -18,3 +18,11 @@ src: ./pages/03-objects/03-object-as-shelf.md
 ---
 src: ./pages/03-objects/04-create-object.md
 ---
+
+---
+src: ./pages/03-objects/05-add-property-object.md
+---
+
+---
+src: ./pages/03-objects/06-delete-property-object.md
+---

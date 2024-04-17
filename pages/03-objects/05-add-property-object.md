@@ -4,7 +4,7 @@ transition: fade
 ---
 
 # Основные операции с объектом
-Процесс создания объекта
+Добавление свойства в уже существующий объект
 
 <div class="wrapper">
 
@@ -12,18 +12,14 @@ transition: fade
 const secondKey = 'age';
 
 const user = {
-    // под ключом "name" хранится значение "John"
     name: "John",
-    // под ключом "age" хранится значение 30
     [secondKey]: 30
 };
 
-console.log( user.name ); // John
-console.log( user.age ); // 30
-console.log( user[secondKey] ); // 30
+user.isAdmin = true;
 ```
 
-<img src="/images/03-objects/user-shelf-0.svg">
+<img src="/images/03-objects/user-shelf-1.svg">
 </div>
 
 <style>
@@ -40,11 +36,12 @@ img {
 }
 
 .wrapper div {
-    max-width: 60%;
+    max-width: 50%;
 }
 
 img {
-    max-width: 40%;
+    max-width: 50%;
+    align-self: baseline;
 }
 
 .host code {

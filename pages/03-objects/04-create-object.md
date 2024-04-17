@@ -40,14 +40,15 @@ img {
 }
 
 .wrapper div {
-    max-width: 60%;
+    max-width: 50%;
 }
 
 img {
-    max-width: 40%;
+    max-width: 50%;
+    align-self: baseline;
 }
 
 .host code {
-    font-size: 1rem;
+    font-size: 0.9rem;
 }
 </style>

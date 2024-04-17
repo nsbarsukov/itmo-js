@@ -1,6 +1,5 @@
 ---
 class: host
-transition: fade
 ---
 
 # Основные операции с объектом

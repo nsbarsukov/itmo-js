@@ -26,3 +26,7 @@ src: ./pages/03-objects/05-add-property-object.md
 ---
 src: ./pages/03-objects/06-delete-property-object.md
 ---
+
+---
+src: ./pages/03-objects/07-add-multi-word-property.md
+---

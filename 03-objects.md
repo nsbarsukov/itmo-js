@@ -38,3 +38,7 @@ src: ./pages/03-objects/08-check-property-in-object.md
 ---
 src: ./pages/03-objects/09-property-key-naming.md
 ---
+
+---
+src: ./pages/03-objects/10-property-iteration-loop.md
+---

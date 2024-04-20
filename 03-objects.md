@@ -50,3 +50,7 @@ src: ./pages/03-objects/11-object-methods.md
 ---
 src: ./pages/03-objects/12-object-method-shorthand.md
 ---
+
+---
+src: ./pages/03-objects/13-this.md
+---

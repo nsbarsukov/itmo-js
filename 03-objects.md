@@ -46,3 +46,7 @@ src: ./pages/03-objects/10-property-iteration-loop.md
 ---
 src: ./pages/03-objects/11-object-methods.md
 ---
+
+---
+src: ./pages/03-objects/12-object-method-shorthand.md
+---

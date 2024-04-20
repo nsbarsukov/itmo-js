@@ -66,3 +66,7 @@ src: ./pages/03-objects/15-string-methods-1.md
 ---
 src: ./pages/03-objects/16-string-methods-2.md
 ---
+
+---
+src: ./pages/03-objects/17-number-syntax.md
+---

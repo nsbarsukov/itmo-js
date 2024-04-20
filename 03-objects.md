@@ -58,3 +58,11 @@ src: ./pages/03-objects/13-this.md
 ---
 src: ./pages/03-objects/14-primitives-methods.md
 ---
+
+---
+src: ./pages/03-objects/15-string-methods-1.md
+---
+
+---
+src: ./pages/03-objects/16-string-methods-2.md
+---

@@ -30,9 +30,4 @@ console.log('как много букв'.length); // 14
     --slidev-code-font-size: 1.25rem;
     --slidev-code-line-height: 1.75rem;
 }
-
-.host blockquote p {
-    font-size: 1.5rem;
-    line-height: 2rem;
-}
 </style>

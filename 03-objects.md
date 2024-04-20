@@ -42,3 +42,7 @@ src: ./pages/03-objects/09-property-key-naming.md
 ---
 src: ./pages/03-objects/10-property-iteration-loop.md
 ---
+
+---
+src: ./pages/03-objects/11-object-methods.md
+---

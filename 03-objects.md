@@ -54,3 +54,7 @@ src: ./pages/03-objects/12-object-method-shorthand.md
 ---
 src: ./pages/03-objects/13-this.md
 ---
+
+---
+src: ./pages/03-objects/14-primitives-methods.md
+---

@@ -70,3 +70,7 @@ src: ./pages/03-objects/16-string-methods-2.md
 ---
 src: ./pages/03-objects/17-number-syntax.md
 ---
+
+---
+src: ./pages/03-objects/18-number-methods.md
+---

@@ -86,3 +86,7 @@ src: ./pages/03-objects/20-create-array.md
 ---
 src: ./pages/03-objects/21-array-indexing.md
 ---
+
+---
+src: ./pages/03-objects/22-add-remove-array-item.md
+---

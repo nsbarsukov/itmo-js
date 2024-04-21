@@ -74,3 +74,7 @@ src: ./pages/03-objects/17-number-syntax.md
 ---
 src: ./pages/03-objects/18-number-methods.md
 ---
+
+---
+src: ./pages/03-objects/19-all-population-as-object.md
+---

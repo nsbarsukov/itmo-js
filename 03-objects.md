@@ -122,3 +122,7 @@ src: ./pages/03-objects/29-iterate-map-entries.md
 ---
 src: ./pages/03-objects/30-introduce-set.md
 ---
+
+---
+src: ./pages/03-objects/31-iterate-set.md
+---

@@ -1,6 +1,5 @@
 ---
 class: host
-transition: fade
 ---
 
 # Методы массивов

@@ -106,3 +106,7 @@ src: ./pages/03-objects/25-array-methods-2.md
 ---
 src: ./pages/03-objects/26-array-methods-3.md
 ---
+
+---
+src: ./pages/03-objects/27-introduce-map.md
+---

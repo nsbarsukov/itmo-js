@@ -110,3 +110,7 @@ src: ./pages/03-objects/26-array-methods-3.md
 ---
 src: ./pages/03-objects/27-introduce-map.md
 ---
+
+---
+src: ./pages/03-objects/28-create-map.md
+---

@@ -94,3 +94,15 @@ src: ./pages/03-objects/22-add-remove-array-item.md
 ---
 src: ./pages/03-objects/23-iterate-array-items.md
 ---
+
+---
+src: ./pages/03-objects/24-array-methods-1.md
+---
+
+---
+src: ./pages/03-objects/25-array-methods-2.md
+---
+
+---
+src: ./pages/03-objects/26-array-methods-3.md
+---

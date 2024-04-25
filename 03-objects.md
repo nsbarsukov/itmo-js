@@ -126,3 +126,7 @@ src: ./pages/03-objects/30-introduce-set.md
 ---
 src: ./pages/03-objects/31-iterate-set.md
 ---
+
+---
+src: ./pages/03-objects/32-final.md
+---

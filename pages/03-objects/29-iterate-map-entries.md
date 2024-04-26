@@ -22,8 +22,8 @@ for (const amount of recipeMap.values()) {
 }
 
 // перебор по key/value
-for (const amount of Array.from(recipeMap)) {
-    console.log(amount); // [ ["огурец", 500], ["помидор", 350], ["лук", 50] ]
+for (const entries of Array.from(recipeMap)) {
+    console.log(entries); // [ ["огурец", 500], ["помидор", 350], ["лук", 50] ]
 }
 ```
 

@@ -18,7 +18,7 @@ transition: fade
 
 <li>
 
-`str.toUpperCase()` и `toLowerCase()` – позволяют менять регистр всех символов в строке
+`str.toUpperCase()` и `str.toLowerCase()` – позволяют менять регистр всех символов в строке
 ```js
 'вот бы вырасти'.toUpperCase(); // 'ВОТ БЫ ВЫРАСТИ'
 'ВОТ БЫ УМЕНЬШИТЬСЯ'.toLowerCase(); // 'вот бы уменьшиться'

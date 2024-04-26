@@ -29,7 +29,7 @@ console.log(citizens['0987 654321'].surname); // 'Petrov'
 ```js
 const citizens = {
    '0': {
-       id: '0987 654321', // серия и номер паспорта
+       id: '1234 567890', // серия и номер паспорта
        name: 'Nikita',
        surname: 'Barsukov'
        // [Прочие свойства гражданина]

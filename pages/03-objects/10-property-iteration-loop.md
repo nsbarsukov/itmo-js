@@ -12,7 +12,7 @@ const obj = {
 };
 
 for (const key in obj) {
-   console.log(key); // 'first', 'second', third
+   console.log(key); // 'first', 'second', 'third'
    console.log(obj[key]); // 1, 2, 3
 }
 ```

@@ -35,6 +35,9 @@ jobs:
       - name: Build 2nd
         run: npm run build -- 02-basic-syntax.md --out=dist/02-basic-syntax --base=/itmo-js/02-basic-syntax/
 
+      - name: Build 3d
+        run: npm run build -- 03-objects.md --out=dist/03-objects --base=/itmo-js/03-objects/
+
       - name: Create root navigation file
         run: cp index.html dist/index.html
 

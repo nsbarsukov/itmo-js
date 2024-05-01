@@ -62,3 +62,7 @@ src: ./pages/04-async/14-promise-static-methods-2.md
 ---
 src: ./pages/04-async/15-promise-static-methods-3.md
 ---
+
+---
+src: ./pages/04-async/16-introduce-async.md
+---

@@ -22,3 +22,7 @@ src: ./pages/04-async/04-imitate-fetch-function.md
 ---
 src: ./pages/04-async/05-use-callback-for-async.md
 ---
+
+---
+src: ./pages/04-async/06-callback-hell.md
+---

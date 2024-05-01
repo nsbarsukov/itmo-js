@@ -26,3 +26,7 @@ src: ./pages/04-async/05-use-callback-for-async.md
 ---
 src: ./pages/04-async/06-callback-hell.md
 ---
+
+---
+src: ./pages/04-async/07-introduce-promise.md
+---

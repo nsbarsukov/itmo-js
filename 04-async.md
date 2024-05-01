@@ -6,3 +6,7 @@ favicon: /logos/javascript.svg
 transition: slide-up
 src: ./pages/04-async/01-cover.md
 ---
+
+---
+src: ./pages/04-async/02-sync-code.md
+---

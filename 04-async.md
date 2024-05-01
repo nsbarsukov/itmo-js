@@ -10,3 +10,7 @@ src: ./pages/04-async/01-cover.md
 ---
 src: ./pages/04-async/02-sync-code.md
 ---
+
+---
+src: ./pages/04-async/03-async-code.md
+---

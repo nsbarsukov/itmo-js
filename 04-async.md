@@ -30,3 +30,7 @@ src: ./pages/04-async/06-callback-hell.md
 ---
 src: ./pages/04-async/07-introduce-promise.md
 ---
+
+---
+src: ./pages/04-async/08-rewrite-request-using-promise.md
+---

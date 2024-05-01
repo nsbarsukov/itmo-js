@@ -66,3 +66,7 @@ src: ./pages/04-async/15-promise-static-methods-3.md
 ---
 src: ./pages/04-async/16-introduce-async.md
 ---
+
+---
+src: ./pages/04-async/17-introduce-await.md
+---

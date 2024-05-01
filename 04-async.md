@@ -74,3 +74,7 @@ src: ./pages/04-async/17-introduce-await.md
 ---
 src: ./pages/04-async/18-error-handling-inside-async-fn.md
 ---
+
+---
+src: ./pages/04-async/19-final.md
+---

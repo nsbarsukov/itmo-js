@@ -38,3 +38,7 @@ src: ./pages/04-async/08-rewrite-request-using-promise.md
 ---
 src: ./pages/04-async/09-promise-methods.md
 ---
+
+---
+src: ./pages/04-async/10-solve-callback-hell-using-promise.md
+---

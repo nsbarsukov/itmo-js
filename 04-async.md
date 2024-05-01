@@ -46,3 +46,7 @@ src: ./pages/04-async/10-solve-callback-hell-using-promise.md
 ---
 src: ./pages/04-async/11-promise-chaining-possibilities.md
 ---
+
+---
+src: ./pages/04-async/12-introduce-fetch.md
+---

@@ -32,10 +32,6 @@ request('https://website1.com')
 ```
 
 <style>
-.host h1 {
-    font-size: 2rem;
-}
-
 .host {
     --slidev-code-font-size: 0.75rem;
     --slidev-code-line-height: 1rem;

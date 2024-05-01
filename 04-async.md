@@ -50,3 +50,15 @@ src: ./pages/04-async/11-promise-chaining-possibilities.md
 ---
 src: ./pages/04-async/12-introduce-fetch.md
 ---
+
+---
+src: ./pages/04-async/13-promise-static-methods-1.md
+---
+
+---
+src: ./pages/04-async/14-promise-static-methods-2.md
+---
+
+---
+src: ./pages/04-async/15-promise-static-methods-3.md
+---

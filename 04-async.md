@@ -18,3 +18,7 @@ src: ./pages/04-async/03-async-code.md
 ---
 src: ./pages/04-async/04-imitate-fetch-function.md
 ---
+
+---
+src: ./pages/04-async/05-use-callback-for-async.md
+---

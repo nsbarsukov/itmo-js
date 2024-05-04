@@ -61,6 +61,11 @@ console.timeEnd(timerId);
     position: absolute;
     right: 0;
     bottom: 0;
-    border: 1px red dashed;
+}
+
+.host .logs pre {
+    box-shadow: rgba(168, 168, 168, 0.6) 3px 3px 6px 0px inset;
+    border-top-right-radius: 0 !important;
+    border-bottom-left-radius: 0 !important;
 }
 </style>

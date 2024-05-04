@@ -49,11 +49,12 @@ Promise.all(promises)
 
 <style>
 .host {
-    --slidev-code-font-size: 0.6rem;
+    --slidev-code-font-size: 0.65rem;
     --slidev-code-line-height: 0.75rem;
 }
 
 .host li p {
-    margin-bottom: 0.25rem;
+    margin-top: 0.5rem;
+    margin-bottom: 0;
 }
 </style>

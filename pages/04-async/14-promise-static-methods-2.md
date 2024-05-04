@@ -45,7 +45,7 @@ Promise.allSettled(urls.map(x => fetch(x))).then(results => {
 
 <style>
 .host {
-    --slidev-code-font-size: 0.6rem;
+    --slidev-code-font-size: 0.65rem;
     --slidev-code-line-height: 0.75rem;
 }
 

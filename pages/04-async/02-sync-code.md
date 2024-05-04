@@ -5,6 +5,8 @@ class: host
 # Синхронное выполнение кода
 Код выполняет задачи одну за другой, ждет завершения каждой, прежде чем начать следующую
 
+<div class="code">
+
 ```js {all|1-10|15,17,19|12-13,16,18,20,22|all} {at:0}
 function imitateHeavyCalculations(n) {
     console.log('Начинаю работу функции с аргументом n =', n);
@@ -43,14 +45,22 @@ console.timeEnd(timerId);
 ```
 </div>
 
+</div>
+
 <style>
 .host {
-    --slidev-code-font-size: 0.6rem;
-    --slidev-code-line-height: 0.75rem;
+    --slidev-code-font-size: 0.75rem;
+    --slidev-code-line-height: 1rem;
+}
+
+.host .code {
+    position: relative;
 }
 
 .host .logs {
-    --slidev-code-font-size: 0.5rem;
-    --slidev-code-line-height: 0.5rem;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    border: 1px red dashed;
 }
 </style>

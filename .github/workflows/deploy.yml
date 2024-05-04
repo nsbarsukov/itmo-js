@@ -38,6 +38,9 @@ jobs:
       - name: Build 3d
         run: npm run build -- 03-objects.md --out=dist/03-objects --base=/itmo-js/03-objects/
 
+      - name: Build 4th
+        run: npm run build -- 04-async.md --out=dist/04-async --base=/itmo-js/04-async/
+
       - name: Create root navigation file
         run: cp index.html dist/index.html
 

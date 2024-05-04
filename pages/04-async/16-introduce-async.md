@@ -7,6 +7,8 @@ class: host
 
 <v-clicks at="0">
 
+<p class="all-fn-types">
+
 ```js
 async function functionDeclaration(arg1, arg2) {
     // [...]
@@ -15,8 +17,7 @@ async function functionDeclaration(arg1, arg2) {
 const functionExpression = async function(arg1, arg2) {};
 const arrowFunction = async (arg1, arg2) => {};
 ```
-
-<br />
+</p>
 
 ```js
 async function fn() {
@@ -41,5 +42,9 @@ fn().then(x => console.log(x)); // 1
 .host {
     --slidev-code-font-size: 0.75rem;
     --slidev-code-line-height: 1rem;
+}
+
+.host .all-fn-types {
+    margin-bottom: 3rem;
 }
 </style>

@@ -42,3 +42,7 @@ src: ./pages/05-prototypes-classes/09-built-in-prototype-chaining.md
 ---
 src: ./pages/05-prototypes-classes/10-array-extends-object-proofs.md
 ---
+
+---
+src: ./pages/05-prototypes-classes/11-school-class.md
+---

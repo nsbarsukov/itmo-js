@@ -10,3 +10,7 @@ src: ./pages/05-prototypes-classes/01-cover.md
 ---
 src: ./pages/05-prototypes-classes/02-same-type-objects.md
 ---
+
+---
+src: ./pages/05-prototypes-classes/03-object-factory.md
+---

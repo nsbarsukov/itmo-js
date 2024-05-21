@@ -1,5 +1,6 @@
 ---
 class: host
+transition: fade
 ---
 
 # Создание однотипных объектов

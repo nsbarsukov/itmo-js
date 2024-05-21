@@ -51,3 +51,6 @@ src: ./pages/05-prototypes-classes/11-school-class.md
 src: ./pages/05-prototypes-classes/12-prototype-vs-class.md
 ---
 
+---
+src: ./pages/05-prototypes-classes/13-learn-basic-class-syntax.md
+---

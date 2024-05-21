@@ -34,3 +34,7 @@ src: ./pages/05-prototypes-classes/07-get-prototype-of.md
 ---
 src: ./pages/05-prototypes-classes/08-legacy-proto.md
 ---
+
+---
+src: ./pages/05-prototypes-classes/09-built-in-prototype-chaining.md
+---

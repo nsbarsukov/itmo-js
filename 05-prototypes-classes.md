@@ -30,3 +30,7 @@ src: ./pages/05-prototypes-classes/06-set-prototype-of.md
 ---
 src: ./pages/05-prototypes-classes/07-get-prototype-of.md
 ---
+
+---
+src: ./pages/05-prototypes-classes/08-legacy-proto.md
+---

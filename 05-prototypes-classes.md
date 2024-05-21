@@ -18,3 +18,7 @@ src: ./pages/05-prototypes-classes/03-object-factory.md
 ---
 src: ./pages/05-prototypes-classes/04-object-constructors.md
 ---
+
+---
+src: ./pages/05-prototypes-classes/05-fn-prototype.md
+---

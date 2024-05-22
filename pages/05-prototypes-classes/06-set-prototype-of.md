@@ -9,7 +9,7 @@ class: host
 const animal = {
    canBreathe: true,
    eat() {
-       console.log('ням-ням');
+       console.log('хрум-хрум');
    }
 }
 
@@ -29,7 +29,7 @@ dog.eat(); // ✅
 const animal = {
    canBreathe: true,
    eat() {
-       console.log('ням-ням');
+       console.log('хрум-хрум');
    }
 }
 

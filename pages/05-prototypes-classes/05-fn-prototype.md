@@ -36,8 +36,8 @@ const cat2 = new Сat('Том');
 const dog1 = new Dog('Шарик')
 const dog2 = new Dog('Спайк')
 
-// cat1.eat() // 'ням-ням'
-// dog1.eat() // 'ням-ням'
+// cat1.eat() // 'хрум-хрум'
+// dog1.eat() // 'хрум-хрум'
 ```
 
 ```js
@@ -52,7 +52,7 @@ function Dog(name) {
 const animal = {
    canBreathe: true,
    eat() {
-       console.log('ням-ням');
+       console.log('хрум-хрум');
    }
 }
 
@@ -62,8 +62,8 @@ const cat2 = new Сat('Том');
 const dog1 = new Dog('Шарик')
 const dog2 = new Dog('Спайк')
 
-// cat1.eat() // 'ням-ням'
-// dog1.eat() // 'ням-ням'
+// cat1.eat() // 'хрум-хрум'
+// dog1.eat() // 'хрум-хрум'
 ```
 
 ```js
@@ -78,7 +78,7 @@ function Dog(name) {
 const animal = {
    canBreathe: true,
    eat() {
-       console.log('ням-ням');
+       console.log('хрум-хрум');
    }
 }
 
@@ -91,8 +91,8 @@ const cat2 = new Сat('Том');
 const dog1 = new Dog('Шарик')
 const dog2 = new Dog('Спайк')
 
-// cat1.eat() // 'ням-ням'
-// dog1.eat() // 'ням-ням'
+cat1.eat() // 'хрум-хрум'
+dog1.eat() // 'хрум-хрум'
 ```
 
 ````

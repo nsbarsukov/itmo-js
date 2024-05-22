@@ -41,6 +41,9 @@ jobs:
       - name: Build 4th
         run: npm run build -- 04-async.md --out=dist/04-async --base=/itmo-js/04-async/
 
+      - name: Build 5th
+        run: npm run build -- 05-prototypes-classes.md --out=dist/05-prototypes-classes --base=/itmo-js/05-prototypes-classes/
+
       - name: Create root navigation file
         run: cp index.html dist/index.html
 

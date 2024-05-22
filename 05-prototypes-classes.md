@@ -70,3 +70,7 @@ src: ./pages/05-prototypes-classes/16-cat-internal-external-interface.md
 ---
 src: ./pages/05-prototypes-classes/17-cat-internal-external-interface-code.md
 ---
+
+---
+src: ./pages/05-prototypes-classes/18-js-encapsulation-theory.md
+---

@@ -66,3 +66,7 @@ src: ./pages/05-prototypes-classes/15-method-overides.md
 ---
 src: ./pages/05-prototypes-classes/16-cat-internal-external-interface.md
 ---
+
+---
+src: ./pages/05-prototypes-classes/17-cat-internal-external-interface-code.md
+---

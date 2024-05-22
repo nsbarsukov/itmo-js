@@ -78,3 +78,7 @@ src: ./pages/05-prototypes-classes/18-js-encapsulation-theory.md
 ---
 src: ./pages/05-prototypes-classes/19-static-methods.md
 ---
+
+---
+src: ./pages/05-prototypes-classes/20-static-methods-examples.md
+---

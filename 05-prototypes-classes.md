@@ -82,3 +82,7 @@ src: ./pages/05-prototypes-classes/19-static-methods.md
 ---
 src: ./pages/05-prototypes-classes/20-static-methods-examples.md
 ---
+
+---
+src: ./pages/05-prototypes-classes/21-instanceof.md
+---

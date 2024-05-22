@@ -74,3 +74,7 @@ src: ./pages/05-prototypes-classes/17-cat-internal-external-interface-code.md
 ---
 src: ./pages/05-prototypes-classes/18-js-encapsulation-theory.md
 ---
+
+---
+src: ./pages/05-prototypes-classes/19-static-methods.md
+---

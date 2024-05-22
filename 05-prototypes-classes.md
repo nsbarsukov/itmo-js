@@ -58,3 +58,7 @@ src: ./pages/05-prototypes-classes/13-learn-basic-class-syntax.md
 ---
 src: ./pages/05-prototypes-classes/14-class-extends.md
 ---
+
+---
+src: ./pages/05-prototypes-classes/15-method-overides.md
+---

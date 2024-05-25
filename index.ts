@@ -26,6 +26,11 @@ prompt({
       description: "Асинхронность в JavaScript",
       value: "04-async.md",
     },
+    {
+      title: "05 – Prototypes & Classes",
+      description: "Прототипы и классы в JavaScript",
+      value: "05-prototypes-classes.md",
+    },
   ],
 })
   .then(({ id }) => {
